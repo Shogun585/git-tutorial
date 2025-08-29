@@ -1,2 +1,2 @@
 console.log("index file")
-console.log("version 2.1")
+console.log("version 3.0")
