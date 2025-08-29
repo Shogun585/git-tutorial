@@ -1,2 +1,2 @@
 console.log("config file")
-console.log("version 5.0")
+console.log("version 6.0")

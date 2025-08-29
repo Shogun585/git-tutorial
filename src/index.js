@@ -1,2 +1,2 @@
 console.log("index file")
-console.log("version 5.0 to Github")
+console.log("version 6.0 ")
